@@ -1,7 +1,7 @@
-div.number:nth-child(odd){
-  font-color: red;
+.number:nth-child(odd){
+  color: red;
 }
 
-div.number:nth-child(even){
+.number:nth-child(even){
   background-color: azure;
 };
